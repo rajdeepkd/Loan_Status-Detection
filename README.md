@@ -15,7 +15,9 @@ We will create a model with the following steps:
 
 ● Prepare the dataset for training 
 
-● Use any prediction algorithm based upon the EDA ● Train the model to fit the data 
+● Use any prediction algorithm based upon the EDA
+
+● Train the model to fit the data 
 
 ● Make predictions using the trained model 
 
